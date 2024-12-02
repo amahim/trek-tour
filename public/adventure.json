@@ -1,0 +1,151 @@
+[
+  {
+    "id": 1,
+    "title": "Mountain Treks",
+    "img": "https://i.postimg.cc/G3y2zPFT/image.png",
+    "category": "Eco-Adventures",
+    "desc": "Experience breathtaking views and a challenging journey through mountain trails.",
+    "cost": "$500",
+    "booking": true,
+    "location": "Himalayas, Nepal",
+    "duration": "7 days",
+    "level": "Moderate",
+    "items": ["Guide", "Meals", "Accommodation", "First Aid Kit"],
+    "features": [
+      "Reusable water bottles",
+      "Leave-no-trace policy",
+      "Eco-friendly accommodation"
+    ],
+    "size": 10,
+    "instructions": [
+      "Pack light and carry essentials only.",
+      "Acclimatize for high altitudes.",
+      "Wear comfortable trekking shoes."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Ocean Dives",
+    "img": "https://i.postimg.cc/TYvPsy07/image.png",
+    "category": "Eco-Adventures",
+    "desc": "Dive into the crystal-clear waters and explore vibrant marine life.",
+    "cost": "$700",
+    "booking": true,
+    "location": "Great Barrier Reef, Australia",
+    "duration": "5 days",
+    "level": "Advanced",
+    "items": [
+      "Diving Gear",
+      "Instructor",
+      "Boat Transfers",
+      "Safety Equipment"
+    ],
+    "features": [
+      "Marine-safe sunscreen provided",
+      "Coral-safe diving practices",
+      "Minimal plastic usage"
+    ],
+    "size": 8,
+    "instructions": [
+      "Bring a valid diving certification.",
+      "Avoid touching marine life.",
+      "Wear reef-safe sunscreen."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Wildlife Safaris",
+    "img": "https://i.postimg.cc/Nf80vgPg/image.png",
+    "category": "Eco-Adventures",
+    "desc": "Observe majestic animals in their natural habitats with minimal impact.",
+    "cost": "$600",
+    "booking": true,
+    "location": "Serengeti, Tanzania",
+    "duration": "4 days",
+    "level": "Easy",
+    "items": ["Safari Jeep", "Guide", "Meals", "Binoculars"],
+    "features": [
+      "Electric safari vehicles",
+      "Eco-friendly lodges",
+      "No hunting policy"
+    ],
+    "size": 12,
+    "instructions": [
+      "Avoid loud noises to not disturb wildlife.",
+      "Wear neutral-colored clothing.",
+      "Follow all instructions from the guide."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Forest Expeditions",
+    "img": "https://i.postimg.cc/vZQZQpp5/image.png",
+    "category": "Eco-Adventures",
+    "desc": "Immerse yourself in the lush greenery and learn about diverse ecosystems.",
+    "cost": "$400",
+    "booking": true,
+    "location": "Amazon Rainforest, Brazil",
+    "duration": "6 days",
+    "level": "Moderate",
+    "items": ["Guide", "Meals", "Rain Gear", "Camping Equipment"],
+    "features": [
+      "Bio-degradable toiletries",
+      "No plastic packaging",
+      "Conservation talks"
+    ],
+    "size": 10,
+    "instructions": [
+      "Protect yourself from insects.",
+      "Respect local flora and fauna.",
+      "Stay hydrated."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Camping Retreats",
+    "img": "https://i.postimg.cc/jSZdCMbm/image.png",
+    "category": "Eco-Adventures",
+    "desc": "Relax under the stars with eco-friendly camping setups.",
+    "cost": "$300",
+    "booking": true,
+    "location": "Yosemite National Park, USA",
+    "duration": "3 days",
+    "level": "Easy",
+    "items": ["Tents", "Meals", "Sleeping Bags", "Campfire Equipment"],
+    "features": [
+      "Reusable utensils",
+      "Solar-powered lights",
+      "Compost toilets"
+    ],
+    "size": 15,
+    "instructions": [
+      "Bring your own refillable water bottle.",
+      "Keep noise levels down at night.",
+      "Dispose of waste responsibly."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Desert Exploration",
+    "img": "https://i.postimg.cc/HLnWMbWx/image.png",
+    "category": "Eco-Adventures",
+    "desc": "Discover the serenity and beauty of vast desert landscapes.",
+    "cost": "$450",
+    "booking": true,
+    "location": "Sahara Desert, Morocco",
+    "duration": "5 days",
+    "level": "Challenging",
+    "items": ["Camel Rides", "Meals", "Camping Equipment", "Desert Guide"],
+    "features": [
+      "Low-impact travel routes",
+      "Biodegradable waste manage",
+      "Solar-powered lighting"
+    ],
+    "size": 8,
+    "instructions": [
+      "Protect yourself from the sun with hats and sunscreen.",
+      "Stay hydrated at all times.",
+      "Follow the guide's lead for safety."
+    ]
+  }
+]
